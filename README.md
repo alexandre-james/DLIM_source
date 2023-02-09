@@ -58,7 +58,7 @@ Training and validation data : EPITA CRI, LinkedIn & Instagram photos of student
 
 _The model was only trained on ING3 SIGL and ING3 IMAGE students_
 
-## How to launch the application:
+## How to launch the application
 
 ```python
 	python interface.py #Launch the main interface
