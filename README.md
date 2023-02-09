@@ -77,4 +77,4 @@ Thibaut: Labeling, Face cutting, Data extraction
 Antoine: Interface, Comparator
 ```
 
-[presentation]: https://github.com/alexandre-james/DLIM_source/docs/presentation.pdf
+[presentation]: https://github.com/alexandre-james/DLIM_source/raw/main/docs/presentation.pdf
