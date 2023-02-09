@@ -10,7 +10,7 @@ This project is about identify people in a image with an application like we see
 
 ## Presentation
 
-The slides from the presentation of the 05/25/2022
+The slides from the presentation of the 12/9/2022
 
 [Link to the slides][presentation]
 
