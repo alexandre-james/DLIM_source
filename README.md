@@ -4,18 +4,24 @@ On this repo you can find public source files of the DLIM project.
 However, you can't run the code due to the removal of pretrained model and data for privacy reasons.
 Thank you for your understanding.
 
-## Introduction :
+## Introduction
 
 This project is about identify people in a image with an application like we see in photo gallery.
 
-## Team:
+## Presentation
+
+The slides from the presentation of the 05/25/2022
+
+[Link to the slides][presentation]
+
+## Team
 
 Antoine Aubin,
 Alexandre James,
 Héloïse Fabre,
 Thibaut Ambrosino,
 
-## Files:
+## Files
 
 ```
 |- classifier.py
@@ -37,7 +43,7 @@ Thibaut Ambrosino,
 	|- html
 ```
 
-## Pipeline:
+## Pipeline
 
 	1. data extraction : get, parse and train on data from CRI
 	2. comparator : compare images to know if they are similar
@@ -47,7 +53,7 @@ Thibaut Ambrosino,
 
 	Interface -> launch the application
 
-# Datas:
+## Datas
 Training and validation data : EPITA CRI, LinkedIn & Instagram photos of students
 
 _The model was only trained on ING3 SIGL and ING3 IMAGE students_
@@ -61,7 +67,7 @@ _The model was only trained on ING3 SIGL and ING3 IMAGE students_
 	python vision.py #Launch the realtime recognition on the webcam
 ```
 
-## Division of labor :
+## Division of labor
 
 
 ```
@@ -70,3 +76,5 @@ Héloise: Data extraction, Labeling
 Thibaut: Labeling, Face cutting, Data extraction
 Antoine: Interface, Comparator
 ```
+
+[presentation]: https://github.com/alexandre-james/DLIM_source/docs/presentation.pdf
